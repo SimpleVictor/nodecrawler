@@ -1,0 +1,16 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "A application to crawl through a website using keywords",
+  "main": "crawler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.74.0",
+    "url-parse": "^1.1.1"
+  }
+}
